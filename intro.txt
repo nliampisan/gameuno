@@ -1,0 +1,9 @@
+
+This is a C++ version of the Uno card game. 
+Creator: Com L. (Summer 2015) 
+The rules are the same as the acutal card game, but
+you must declare uno as you play your second to last card. 
+Meaning if you have two cards left, during you turn you 
+will have to pick a card and declare uno i.e. >> 1 uno 
+Have fun playing the game :) 
+
